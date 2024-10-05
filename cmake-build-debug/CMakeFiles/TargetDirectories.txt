@@ -1,0 +1,6 @@
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/shape_ident.dir
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/main.dir
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/polar_decomp.dir
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/playground.dir
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emers/CLionProjects/NumCS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
